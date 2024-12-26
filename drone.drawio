@@ -368,7 +368,7 @@
             <mxPoint y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wEYt1NS1_lvYmc17WHgS-49" value="第三方无人机管控平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="wEYt1NS1_lvYmc17WHgS-49" value="无人机管控平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="456" y="2203.75" width="144" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="wEYt1NS1_lvYmc17WHgS-51" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;云端&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
